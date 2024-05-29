@@ -66,7 +66,7 @@ To run PONG🏓 on your local machine, follow these steps:
 
 ## Credits
 
-- Developed by [Your Name]
+- Developed by C0lecodes
 
 ## License
 
